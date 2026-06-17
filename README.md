@@ -27,6 +27,11 @@ The project demonstrates practical application of:
 - Non-Functional Requirements Specification
 
 ---
+### Use Case Diagram
+
+![Use Case Diagram](assets/use-case-diagram.png)
+
+---
 
 ## 🎯 Project Objectives
 
@@ -99,12 +104,6 @@ The business processes were analysed using:
 
 ---
 
-### Use Case Diagram
-
-![Use Case Diagram](assets/use-case-diagram.png)
-
----
-
 ### Context Diagram
 
 ![Context Diagram](assets/context-diagram.png)
@@ -149,16 +148,15 @@ The business processes were analysed using:
 
 ## 🛠 Techniques Demonstrated
 
-- Requirements Engineering
-- Stakeholder Analysis
-- Agile Planning
-- Business Process Analysis
-- Process Modelling
-- Use Case Development
-- Context Modelling
-- Data Flow Modelling
-- Documentation Standards
-- Solution Design
+✔ Requirements Engineering
+✔ Stakeholder Analysis
+✔ Agile Methodology Selection
+✔ Business Process Modelling
+✔ Use Case Modelling
+✔ Context Diagram Design
+✔ Data Flow Diagram Development
+✔ Non-Functional Requirements Specification
+✔ Systems Documentation
 
 ---
 

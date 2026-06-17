@@ -181,7 +181,7 @@ prime-estates-property-management-system
 │   └── use-case-diagram.png
 │
 └── documentation
-    └── prime-estates-system-analysis-report.docx
+    └── prime-estates-system-analysis-report.pdf
 ```
 
 ---
